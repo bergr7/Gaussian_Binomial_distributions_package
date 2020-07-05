@@ -1,2 +1,5 @@
 # Ignore .idea folder (Pycharm)
 /.idea
+
+# Ignore __pycache__ folder in gaubi_dists
+/gaubi_dists/__pycache__
