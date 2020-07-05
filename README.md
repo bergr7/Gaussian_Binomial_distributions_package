@@ -31,14 +31,14 @@ are inside this folder. For more info, read gaubi_dists README.md.
 
 - numbers_binomial.txt - Data used in Binomial distribution tests.
 
--**dist_venv folder** - Python virtual environment with gaubi_dists installed.
+- **dist_venv folder** - Python virtual environment with gaubi_dists installed.
 
--.gitignore - Files in the repo to be ignored.
+- .gitignore - Files in the repo to be ignored.
 
 
 ## Results
 Pypi package that calculates and visualise Gaussian and Binomial Distributions
 
-##Acknowledgements
+## Acknowledgements
 
 For more information, see gaubi_dists README.md.
