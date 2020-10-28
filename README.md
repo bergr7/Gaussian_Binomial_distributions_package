@@ -31,8 +31,6 @@ are inside this folder. For more info, read gaubi_dists README.md.
 
 - numbers_binomial.txt - Data used in Binomial distribution tests.
 
-- **dist_venv folder** - Python virtual environment with gaubi_dists installed.
-
 - .gitignore - Files in the repo to be ignored.
 
 
